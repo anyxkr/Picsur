@@ -6,7 +6,9 @@
 
 # Picsur
 
+
 [동영상 메뉴얼](https://www.youtube.com/watch?v=mJXlAry2TuY)
+
 
 > Totally not an Imgur clone
 
